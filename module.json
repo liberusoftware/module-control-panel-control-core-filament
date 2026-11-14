@@ -3,7 +3,7 @@
   "name": "control-panel-control-core-filament",
   "display_name": "Control Panel Control Core Filament",
   "description": "Filament 5 operational surfaces for Control Core.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "presentation",
   "provider": "Liberu\\ControlPanel\\ControlCoreFilament\\ControlCoreFilamentServiceProvider",
   "requires": {
